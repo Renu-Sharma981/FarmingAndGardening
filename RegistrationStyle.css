@@ -1,0 +1,39 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-image:url("Images/backlog.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.container {
+    width: 47vw;
+    height: 57vh;
+    background-image: url("Images/whi.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+
+.container.inner1{
+    width:50%;
+    height:100%;
+    position:absolute;
+   
+    background:rgba(255,252,0.92);
+    text-align:center;
+    
+
+}
+
+
+
+

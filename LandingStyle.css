@@ -1,0 +1,51 @@
+﻿body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+img {
+    background-image: url(./images/logo.png);
+    min-height: 100%;
+    width: 100%;
+}
+
+.navbar-brand img {
+    height: 40px; /* Adjust the height based on your logo size */
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #ffffff;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: #ffffff;
+}
+
+.jumbotron {
+    background-image: url('farm-image.jpg');
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0;
+    margin-bottom: 0;
+}
+
+.feature-box {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+</style >
